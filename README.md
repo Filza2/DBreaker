@@ -15,7 +15,7 @@ Supported software
 | -- | -- | -- | -- |
 | Browsers | Google Chrome<br>Mozilla Firefox<br>Microsoft Edge<br>Brave<br>Opera | Not Supported | Not Supported |
 
-DBreaker Extract:
+DBreaker Extract
 ----
 |  | Type   |.|.
 | -- | -- | -- | -- |
@@ -29,8 +29,9 @@ pip install -r requirements.txt
 
 Note
 ----
-This tool has been developed entirely for educational purposes only and data retrieval is to be used at your own risk
-
+This tool has been developed entirely for educational purposes only and data retrieval is to be used at your own risk !!
+,
+The development was done on the date 2023/02/13 and the tool works perfectly Fine , any Bugs or Proplems Please Tell me to update it
 ```
 Nothing is Safe ...
 ```
