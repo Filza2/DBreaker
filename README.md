@@ -15,7 +15,7 @@ History
 Downloads
 LastSearch
 
-<p align="center"><img src="" alt="DBreaker"></p>
+<p align="center"><img src="" alt="The DBreaker"></p>
 
 
 Installation
