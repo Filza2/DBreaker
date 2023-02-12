@@ -31,7 +31,7 @@ Note
 ----
 This tool has been developed entirely for educational purposes only and data retrieval is to be used at your own risk !!
 ,
-The development was done on the date 2023/02/13 and the tool works perfectly Fine , any Bugs or Proplems Please Tell me to update it
+ Although DBreaker was initially released in 2023, as of 2023/02/13 it still works fine and I'll fix any bugs reported.
 ```
 Nothing is Safe ...
 ```
