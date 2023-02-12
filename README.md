@@ -19,4 +19,4 @@ Supported software
 
 |  | Windows    | Linux  | Mac |
 | -- | -- | -- | -- |
-| Browsers | Brave<br> Firefox<br> Google Chrome<br> Microsoft Edge<br> Opera<br> | Not Supported | Not Supported |
+| Browsers | Google Chrome<br>Firefox<br>Microsoft Edge<br>Brave<br>Opera | Not Supported | Not Supported |
