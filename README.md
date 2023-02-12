@@ -7,7 +7,7 @@ The __DBreaker__ is Powerful open source Tool used to __Extract Browsers Data__ 
 
 Data Like :
 ----
-|  | Type   | |
+|  | Type   | 0|0
 | -- | -- | -- | -- |
 | Data | Bookmarks<br>Login data : username & Decrypted password<br>Cookies<br>AutoFill<br>History<br>Downloads<br> | Not Supported | Not Supported |
 
