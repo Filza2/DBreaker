@@ -1,0 +1,7 @@
+PyCryptodome>=3.9.0
+pyasn1>=0.4.8
+rich
+random
+win32crypt (pywin32)
+shutil
+click
