@@ -21,8 +21,8 @@ Supported software
 | -- | -- | -- | -- |
 | Browsers | Google Chrome<br>Mozilla Firefox<br>Microsoft Edge<br>Brave<br>Opera | Not Supported | Not Supported |
 
-Data Like :
+DBreaker Extract:
 ----
 |  | Type   |.|.
 | -- | -- | -- | -- |
-| Data | Bookmarks<br>Login data : username & Decrypted password<br>Cookies<br>AutoFill<br>History<br>Downloads<br>LastSearch|. | .|
+| Data | Bookmarks<br>Login data : username & Decrypted password<br>Cookies<br>AutoFill<br>History<br>Downloads<br>LastSearch<br>MasterKey|. | .|
