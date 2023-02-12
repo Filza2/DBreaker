@@ -9,7 +9,7 @@ else:exit('[!] Not Suppoted ')
 custom_theme=Theme({'success': 'green', 'error': 'bold red'})
 console=Console(theme=custom_theme)
 
-#Tested on Python 3.11 Windows 10 Browsers lastest update
+#Tested on Python 3.11 Windows 10 Browsers latest update
 #By Filza2 (https://github.com/Filza2/DBreaker/)
 
 
@@ -1067,6 +1067,7 @@ def Core():
     console.print("[+] Done, Do you want to clean Temporary Files",":coffee:",justify='left',style='bold green')
     if click.confirm('',default=True,show_default=True):Temp_Remover()
     sleep(2);Result()
+    
     
     
     
