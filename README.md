@@ -3,7 +3,17 @@ __DBreaker !!!__
 
 Description
 ----
-The DBreaker__ is an open source application used to __Extract Browsers__ stored on a local computer. 
+The __DBreaker__ is Powerful open source Tool used to __Extract Browsers Data__ stored on a local computer. 
+
+Data Like :
+----
+Bookmarks or Bookmark
+Login data : username:password
+Cookies
+AutoFill data
+History
+Downloads
+LastSearch
 
 <p align="center"><img src="" alt="DBreaker"></p>
 
