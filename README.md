@@ -25,9 +25,12 @@ Installation
 ----
 ```
 pip install -r requirements.txt
-
+```
+----
+```
 Note: win32crypt is > (pywin32)
 ```
+
 
 Note
 ----
