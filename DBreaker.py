@@ -4,7 +4,7 @@ from struct import unpack;from binascii import hexlify,unhexlify
 from rich.console import Console;from rich.table import Table;from rich.theme import Theme
 from Crypto.Cipher import DES3,AES;from Crypto.Util.number import long_to_bytes;from Crypto.Util.Padding import unpad 
 from time import sleep,localtime
-if "Windows" in os.environ['SYSTEMROOT']:pass
+if os.name=='nt':pass
 else:exit('[!] Not Suppoted ')
 custom_theme=Theme({'success': 'green', 'error': 'bold red'})
 console=Console(theme=custom_theme)
