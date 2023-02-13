@@ -4,4 +4,4 @@ rich
 random
 shutil
 click
-win32crypt (pywin32)
+pywin32
